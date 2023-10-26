@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Thach
+- 👀 I’m interested in Laravel, .NET
